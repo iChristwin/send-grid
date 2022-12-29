@@ -1,0 +1,5 @@
+.env.sh
+.vscode/
+.idea/
+*/__pycache__/
+db.sqlite3
